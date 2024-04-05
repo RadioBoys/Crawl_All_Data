@@ -1,3 +1,4 @@
 node_modules
 cookieInstagram.txt
 src/testSelenium.js
+.gitignore

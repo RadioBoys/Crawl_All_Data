@@ -9,7 +9,7 @@ npm install
 - Download image from Instagram:
 You must create a file name `cookieInstagram.txt` and paste your cookie on it.
 
-# How to use
+## How to use
 After installing, following command:
 ```bash
 node index.js
